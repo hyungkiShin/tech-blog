@@ -1,4 +1,5 @@
-# This is Daejoon's blog
+# 고대준 파트장님께 도움을 받아 tech blog 를 셋팅중.
+# Tech blog
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 테마를 사용했다.
 - 블로그 방문: [https://blog.ddoong2.com](https://blog.ddoong2.com)
 
