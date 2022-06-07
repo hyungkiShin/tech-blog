@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : kodaejoon
+  username               : hanatour
 facebook:
   username               :
   app_id                 :
@@ -108,24 +108,24 @@ analytics:
 author:
   name             : "HanaTour"
   avatar           : "/assets/images/hanatour-logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineer"
+  bio              : "No. 1 travel agency"
   #location         : "Seoul, Korea"
   email            : 15771233@hanatour.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:kkode1911@gmail.com
+      # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://blog.ddoong2.com"
+      # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/KoDaeJoon"
+      # url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/daejoon.go"
+      # url: ""
     - label: "Site"
-      icon: "fab fa-fw fa-television"
+      icon: "fas fa-fw fa-link"
       url: "https://www.hanatour.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
